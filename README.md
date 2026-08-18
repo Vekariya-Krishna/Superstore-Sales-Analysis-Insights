@@ -169,4 +169,5 @@ The analysis identifies strong-performing categories, shipping preferences, regi
 
 More importantly, this project demonstrates how **Power BI can transform raw transactional data into a meaningful business story** that supports practical decision-making and identifies future growth opportunities.
 
-## 11. Internship Task 4 Data Visualization and Storytelling
+## 11. Internship 
+Task 4 Data Visualization and Storytelling
